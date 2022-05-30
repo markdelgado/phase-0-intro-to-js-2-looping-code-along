@@ -20,7 +20,7 @@ describe( 'index.js', () => {
         "Thank you, Aki, for the wonderful surprise gift!",
       ]);
     } );
-  } );
+ } );
 
   describe( 'countDown()', () => {
     afterEach( () => {
